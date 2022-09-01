@@ -1,6 +1,6 @@
 | id | Title | Status | Author | Description | Discussions to | Created |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| LTIP-3 | L2StateOfMind NFT Holder Vote #1 | Pending | Weston (westonnelson), Exosphere (@exosphereL2), Train (@layer2train) | L2StateOfMind NFT Holders Participate In Governance On Snapshot To Partner With Thales Protocol | https://discord.gg/layer2dao | 2022-099-01
+| LTIP-3 | L2StateOfMind NFT Holder Vote #1 | Pending | Weston (westonnelson), Exosphere (@exosphereL2), Train (@layer2train) | L2StateOfMind NFT Holders Participate In Governance On Snapshot To Partner With Thales Protocol | https://discord.gg/layer2dao | 2022-09-01
  
 # Summary
 
