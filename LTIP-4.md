@@ -1,6 +1,6 @@
-| id | Title | Status | Author | Description | Discussions to | Created 09.0422 |
+| id | Title | Status | Author | Description | Discussions to | Created |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| LTIP-4 | Layer2DAO creation of first subDAO | Draft | Weston (westonnelson), Exosphere (@exosphereL2), Train (@layer2train) |  A Vote On the Creation of the First L2DAO subDAO
+| LTIP-4 | Layer2DAO creation of first subDAO | Draft | Weston (westonnelson), Exosphere (@exosphereL2), Train (@layer2train) |  A Vote On the Creation of the First L2DAO subDAO | | 09.04.22
 
 # Summary
 
