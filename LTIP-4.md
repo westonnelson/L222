@@ -1,10 +1,10 @@
-| id | Title | Status | Author | Description | Discussions to | Created |
+| id | Title | Status | Author | Description | Discussions to | Created 09.0422 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | LTIP-4 | Layer2DAO creation of first subDAO | Draft | Weston (westonnelson), Exosphere (@exosphereL2), Train (@layer2train) |  A Vote On the Creation of the First L2DAO subDAO
 
 # Summary
 
-This LTIP proposes to the Layer2DAO community a vote conducted on Snapshot to signal support for the first L2StateOfMind project (Evolved from the original plans around the OPIncupator idea) - to support and partner with Thales Protocol. The vote will be conducted via Snapshot.
+This LTIP proposes to the Layer2DAO community a vote conducted on Snapshot to signal support for the first Layer2DAO subDAO. The vote will be conducted via Snapshot.
 
 # Abstract
 
